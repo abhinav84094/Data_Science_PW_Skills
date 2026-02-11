@@ -1,0 +1,10 @@
+2026-02-10 21:39:06,881 The length of list is 
+2026-02-10 21:39:06,882 This is normal information about the software
+2026-02-10 21:39:06,882 This can be empty list here
+2026-02-10 21:39:06,882 Some error has happened
+2026-02-10 21:39:06,882 The software has stopped running
+2026-02-10 21:40:29,012 DEBUG The length of list is 
+2026-02-10 21:40:29,014 INFO This is normal information about the software
+2026-02-10 21:40:29,014 WARNING This can be empty list here
+2026-02-10 21:40:29,014 ERROR Some error has happened
+2026-02-10 21:40:29,015 CRITICAL The software has stopped running

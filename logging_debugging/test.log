@@ -1,0 +1,5 @@
+INFO:root:This is normal information about the software
+WARNING:root:This can be empty list here
+CRITICAL:root:The software has stopped running
+WARNING:root:This can be empty list here
+
